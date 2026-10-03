@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="The method in five phases">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}.k{animation:i .6s ease-out both}@keyframes i{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}</style>
+<rect width="1000" height="360" rx="14" fill="#0b1b33"/>
+<text x="25" y="40" font-size="19" font-weight="700" fill="#fff">The method in five phases</text>
+<text x="25" y="62" font-size="13" fill="#8fb3dd">Follows the map, measure, manage cycle. Most of the value is in phases 2 and 5.</text>
+<g class="k" style="animation-delay:0.00s"><rect x="25.0" y="84" width="172.4" height="250" rx="10" fill="#10233f" stroke="#2a4f80"/><rect x="25.0" y="84" width="172.4" height="4" rx="2" fill="#3987e5"/>
+<circle cx="55.0" cy="120" r="15" fill="#3987e5"/><text x="55.0" y="125.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="81.0" y="125" font-size="15.5" font-weight="700" fill="#fff">Scope</text>
+<text x="45.0" y="158" font-size="12" fill="#8fb3dd">What may we test, and</text>
+<text x="45.0" y="175" font-size="12" fill="#8fb3dd">how?</text>
+<text x="45.0" y="198" font-size="12.5" fill="#cfe3ff">Authorisation, test</text>
+<text x="45.0" y="217" font-size="12.5" fill="#cfe3ff">accounts, canaries,</text>
+<text x="45.0" y="236" font-size="12.5" fill="#cfe3ff">out-of-bounds</text>
+<text x="45.0" y="255" font-size="12.5" fill="#cfe3ff">actions</text>
+<rect x="45.0" y="298" width="65" height="24" rx="12" fill="#3987e5" fill-opacity=".22"/><text x="57.0" y="314.5" font-size="11.5" font-weight="600" fill="#fff">Page 1</text>
+</g>
+<path d="M200.4,209.0 h14" stroke="#5b7aa6" stroke-width="2"/><path d="M209.4,204.0 l6,5 l-6,5" fill="none" stroke="#5b7aa6" stroke-width="2"/>
+<g class="k" style="animation-delay:0.08s"><rect x="219.4" y="84" width="172.4" height="250" rx="10" fill="#10233f" stroke="#2a4f80"/><rect x="219.4" y="84" width="172.4" height="4" rx="2" fill="#9085e9"/>
+<circle cx="249.4" cy="120" r="15" fill="#9085e9"/><text x="249.4" y="125.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="275.4" y="125" font-size="15.5" font-weight="700" fill="#fff">Map</text>
+<text x="239.4" y="158" font-size="12" fill="#8fb3dd">What can it read,</text>
+<text x="239.4" y="175" font-size="12" fill="#8fb3dd">reach and do?</text>
+<text x="239.4" y="198" font-size="12.5" fill="#cfe3ff">Inputs, sources,</text>
+<text x="239.4" y="217" font-size="12.5" fill="#cfe3ff">tools, identities.</text>
+<text x="239.4" y="236" font-size="12.5" fill="#cfe3ff">Find the dangerous</text>
+<text x="239.4" y="255" font-size="12.5" fill="#cfe3ff">combinations</text>
+<rect x="239.4" y="298" width="65" height="24" rx="12" fill="#9085e9" fill-opacity=".22"/><text x="251.4" y="314.5" font-size="11.5" font-weight="600" fill="#fff">Page 2</text>
+</g>
+<path d="M394.8,209.0 h14" stroke="#5b7aa6" stroke-width="2"/><path d="M403.8,204.0 l6,5 l-6,5" fill="none" stroke="#5b7aa6" stroke-width="2"/>
+<g class="k" style="animation-delay:0.16s"><rect x="413.8" y="84" width="172.4" height="250" rx="10" fill="#10233f" stroke="#2a4f80"/><rect x="413.8" y="84" width="172.4" height="4" rx="2" fill="#d95926"/>
+<circle cx="443.8" cy="120" r="15" fill="#d95926"/><text x="443.8" y="125.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="469.8" y="125" font-size="15.5" font-weight="700" fill="#fff">Probe</text>
+<text x="433.8" y="158" font-size="12" fill="#8fb3dd">Can we make it</text>
+<text x="433.8" y="175" font-size="12" fill="#8fb3dd">misbehave?</text>
+<text x="433.8" y="198" font-size="12.5" fill="#cfe3ff">24 tests across four</text>
+<text x="433.8" y="217" font-size="12.5" fill="#cfe3ff">categories, by hand</text>
+<text x="433.8" y="236" font-size="12.5" fill="#cfe3ff">and with automation</text>
+<rect x="433.8" y="298" width="65" height="24" rx="12" fill="#d95926" fill-opacity=".22"/><text x="445.8" y="314.5" font-size="11.5" font-weight="600" fill="#fff">Page 3</text>
+</g>
+<path d="M589.2,209.0 h14" stroke="#5b7aa6" stroke-width="2"/><path d="M598.2,204.0 l6,5 l-6,5" fill="none" stroke="#5b7aa6" stroke-width="2"/>
+<g class="k" style="animation-delay:0.24s"><rect x="608.2" y="84" width="172.4" height="250" rx="10" fill="#10233f" stroke="#2a4f80"/><rect x="608.2" y="84" width="172.4" height="4" rx="2" fill="#e66767"/>
+<circle cx="638.2" cy="120" r="15" fill="#e66767"/><text x="638.2" y="125.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="664.2" y="125" font-size="15.5" font-weight="700" fill="#fff">Rate</text>
+<text x="628.2" y="158" font-size="12" fill="#8fb3dd">How bad, and how</text>
+<text x="628.2" y="175" font-size="12" fill="#8fb3dd">easy?</text>
+<text x="628.2" y="198" font-size="12.5" fill="#cfe3ff">Impact against ease,</text>
+<text x="628.2" y="217" font-size="12.5" fill="#cfe3ff">on a scale agreed</text>
+<text x="628.2" y="236" font-size="12.5" fill="#cfe3ff">before testing</text>
+<rect x="628.2" y="298" width="65" height="24" rx="12" fill="#e66767" fill-opacity=".22"/><text x="640.2" y="314.5" font-size="11.5" font-weight="600" fill="#fff">Page 4</text>
+</g>
+<path d="M783.6,209.0 h14" stroke="#5b7aa6" stroke-width="2"/><path d="M792.6,204.0 l6,5 l-6,5" fill="none" stroke="#5b7aa6" stroke-width="2"/>
+<g class="k" style="animation-delay:0.32s"><rect x="802.6" y="84" width="172.4" height="250" rx="10" fill="#10233f" stroke="#2a4f80"/><rect x="802.6" y="84" width="172.4" height="4" rx="2" fill="#199e70"/>
+<circle cx="832.6" cy="120" r="15" fill="#199e70"/><text x="832.6" y="125.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<text x="858.6" y="116" font-size="15.5" font-weight="700" fill="#fff">Report and</text>
+<text x="858.6" y="134" font-size="15.5" font-weight="700" fill="#fff">retest</text>
+<text x="822.6" y="158" font-size="12" fill="#8fb3dd">Did it get fixed, and</text>
+<text x="822.6" y="175" font-size="12" fill="#8fb3dd">stay fixed?</text>
+<text x="822.6" y="198" font-size="12.5" fill="#cfe3ff">Findings a team can</text>
+<text x="822.6" y="217" font-size="12.5" fill="#cfe3ff">act on, a retest,</text>
+<text x="822.6" y="236" font-size="12.5" fill="#cfe3ff">then a release gate</text>
+<rect x="822.6" y="298" width="114" height="24" rx="12" fill="#199e70" fill-opacity=".22"/><text x="834.6" y="314.5" font-size="11.5" font-weight="600" fill="#fff">Pages 5 and 6</text>
+</g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="484" viewBox="0 0 1000 484" role="img" aria-label="Six questions that map an agent's attack surface">
+<style>text{font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}.k{animation:i .6s ease-out both}@keyframes i{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}</style>
+<rect width="1000" height="484" rx="14" fill="#0b1b33"/>
+<text x="25" y="40" font-size="19" font-weight="700" fill="#fff">Six questions that map an agent's attack surface</text>
+<text x="25" y="62" font-size="13" fill="#8fb3dd">Ask these before sending a single prompt. The bad answers tell you where to test first.</text>
+<g class="k" style="animation-delay:0.00s"><rect x="25.0" y="84" width="302.0" height="176" rx="10" fill="#10233f" stroke="#2a4f80"/><rect x="25.0" y="84" width="302.0" height="4" rx="2" fill="#3987e5"/>
+<circle cx="55.0" cy="120" r="15" fill="#3987e5"/><text x="55.0" y="125.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="81.0" y="125" font-size="15.5" font-weight="700" fill="#fff">Who can talk to it?</text>
+<text x="45.0" y="158" font-size="12.5" fill="#cfe3ff">Bad sign: anyone, with no sign-in, or</text>
+<text x="45.0" y="177" font-size="12.5" fill="#cfe3ff">the whole tenant when ten people need</text>
+<text x="45.0" y="196" font-size="12.5" fill="#cfe3ff">it</text>
+<rect x="45.0" y="224" width="65" height="24" rx="12" fill="#3987e5" fill-opacity=".22"/><text x="57.0" y="240.5" font-size="11.5" font-weight="600" fill="#fff">Access</text>
+</g>
+<g class="k" style="animation-delay:0.08s"><rect x="349.0" y="84" width="302.0" height="176" rx="10" fill="#10233f" stroke="#2a4f80"/><rect x="349.0" y="84" width="302.0" height="4" rx="2" fill="#d95926"/>
+<circle cx="379.0" cy="120" r="15" fill="#d95926"/><text x="379.0" y="125.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="405.0" y="125" font-size="15.5" font-weight="700" fill="#fff">What does it read?</text>
+<text x="369.0" y="158" font-size="12.5" fill="#cfe3ff">Bad sign: sources outsiders can write</text>
+<text x="369.0" y="177" font-size="12.5" fill="#cfe3ff">to, such as inbound email, web pages or</text>
+<text x="369.0" y="196" font-size="12.5" fill="#cfe3ff">shared folders</text>
+<rect x="369.0" y="224" width="128" height="24" rx="12" fill="#d95926" fill-opacity=".22"/><text x="381.0" y="240.5" font-size="11.5" font-weight="600" fill="#fff">Untrusted input</text>
+</g>
+<g class="k" style="animation-delay:0.16s"><rect x="673.0" y="84" width="302.0" height="176" rx="10" fill="#10233f" stroke="#2a4f80"/><rect x="673.0" y="84" width="302.0" height="4" rx="2" fill="#e66767"/>
+<circle cx="703.0" cy="120" r="15" fill="#e66767"/><text x="703.0" y="125.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="729.0" y="116" font-size="15.5" font-weight="700" fill="#fff">What is in its</text>
+<text x="729.0" y="134" font-size="15.5" font-weight="700" fill="#fff">instructions?</text>
+<text x="693.0" y="158" font-size="12.5" fill="#cfe3ff">Bad sign: secrets, internal addresses,</text>
+<text x="693.0" y="177" font-size="12.5" fill="#cfe3ff">or rules that only work if nobody reads</text>
+<text x="693.0" y="196" font-size="12.5" fill="#cfe3ff">them</text>
+<rect x="693.0" y="224" width="107" height="24" rx="12" fill="#e66767" fill-opacity=".22"/><text x="705.0" y="240.5" font-size="11.5" font-weight="600" fill="#fff">Instructions</text>
+</g>
+<g class="k" style="animation-delay:0.24s"><rect x="25.0" y="282" width="302.0" height="176" rx="10" fill="#10233f" stroke="#2a4f80"/><rect x="25.0" y="282" width="302.0" height="4" rx="2" fill="#9085e9"/>
+<circle cx="55.0" cy="318" r="15" fill="#9085e9"/><text x="55.0" y="323.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="81.0" y="323" font-size="15.5" font-weight="700" fill="#fff">What can it do?</text>
+<text x="45.0" y="356" font-size="12.5" fill="#cfe3ff">Bad sign: tools that send, delete, pay</text>
+<text x="45.0" y="375" font-size="12.5" fill="#cfe3ff">or change permissions, beyond what its</text>
+<text x="45.0" y="394" font-size="12.5" fill="#cfe3ff">purpose needs</text>
+<rect x="45.0" y="422" width="58" height="24" rx="12" fill="#9085e9" fill-opacity=".22"/><text x="57.0" y="438.5" font-size="11.5" font-weight="600" fill="#fff">Tools</text>
+</g>
+<g class="k" style="animation-delay:0.32s"><rect x="349.0" y="282" width="302.0" height="176" rx="10" fill="#10233f" stroke="#2a4f80"/><rect x="349.0" y="282" width="302.0" height="4" rx="2" fill="#c98500"/>
+<circle cx="379.0" cy="318" r="15" fill="#c98500"/><text x="379.0" y="323.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<text x="405.0" y="323" font-size="15.5" font-weight="700" fill="#fff">Whose identity does it use?</text>
+<text x="369.0" y="356" font-size="12.5" fill="#cfe3ff">Bad sign: the maker's account or a</text>
+<text x="369.0" y="375" font-size="12.5" fill="#cfe3ff">broad service identity that every user</text>
+<text x="369.0" y="394" font-size="12.5" fill="#cfe3ff">borrows</text>
+<rect x="369.0" y="422" width="79" height="24" rx="12" fill="#c98500" fill-opacity=".22"/><text x="381.0" y="438.5" font-size="11.5" font-weight="600" fill="#fff">Identity</text>
+</g>
+<g class="k" style="animation-delay:0.40s"><rect x="673.0" y="282" width="302.0" height="176" rx="10" fill="#10233f" stroke="#2a4f80"/><rect x="673.0" y="282" width="302.0" height="4" rx="2" fill="#199e70"/>
+<circle cx="703.0" cy="318" r="15" fill="#199e70"/><text x="703.0" y="323.5" font-size="15" font-weight="700" fill="#fff" text-anchor="middle">6</text>
+<text x="729.0" y="323" font-size="15.5" font-weight="700" fill="#fff">Who approves and watches?</text>
+<text x="693.0" y="356" font-size="12.5" fill="#cfe3ff">Bad sign: no approval on high-impact</text>
+<text x="693.0" y="375" font-size="12.5" fill="#cfe3ff">actions, no logging, no named owner</text>
+<rect x="693.0" y="422" width="86" height="24" rx="12" fill="#199e70" fill-opacity=".22"/><text x="705.0" y="438.5" font-size="11.5" font-weight="600" fill="#fff">Oversight</text>
+</g>
+</svg>
