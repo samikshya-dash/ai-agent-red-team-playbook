@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="AI agent red team playbook" width="100%">
+  <img src="banner.svg" alt="AI agent red team playbook" width="100%">
 </p>
 
 AI agents read documents, hold credentials and take actions. That makes them a new kind of insider: one that will follow instructions from whoever manages to speak to it. This playbook is the method I use to find out, before an attacker does, what an agent can be talked into.
@@ -19,7 +19,7 @@ Ordinary penetration testing doesn't look for these. This does.
 ## The method
 
 <p align="center">
-  <img src="assets/method.svg" alt="Five phases: scope, map, probe, rate, report and retest" width="100%">
+  <img src="method.svg" alt="Five phases: scope, map, probe, rate, report and retest" width="100%">
 </p>
 
 | Phase | Page | You leave with |
@@ -35,7 +35,7 @@ Tools I use alongside it: [manual testing, PyRIT and the Microsoft Foundry AI Re
 ## What I test for
 
 <p align="center">
-  <img src="assets/categories.svg" alt="Prompt injection, data leakage, excessive permissions, unsafe content" width="100%">
+  <img src="categories.svg" alt="Prompt injection, data leakage, excessive permissions, unsafe content" width="100%">
 </p>
 
 Every test maps to the [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/llm-top-10/) and, where one applies, a [MITRE ATLAS](https://atlas.mitre.org/) technique. Full list: [test catalogue](docs/03-test-catalogue.md).
@@ -43,7 +43,7 @@ Every test maps to the [OWASP Top 10 for LLM Applications 2025](https://genai.ow
 ## Map before you probe
 
 <p align="center">
-  <img src="assets/attack-surface.svg" alt="Six questions: who can talk to it, what does it read, what is in its instructions, what can it do, whose identity does it use, who approves and watches" width="100%">
+  <img src="attack-surface.svg" alt="Six questions: who can talk to it, what does it read, what is in its instructions, what can it do, whose identity does it use, who approves and watches" width="100%">
 </p>
 
 The findings that matter most come from one combination: an agent that reads **content an attacker can influence**, can reach **private data**, and has a way to **send data out or act**. When the map shows all three, that chain is the first test. More in the [threat model](docs/02-threat-model.md).
@@ -51,7 +51,7 @@ The findings that matter most come from one combination: an agent that reads **c
 ## Rating what you find
 
 <p align="center">
-  <img src="assets/severity.svg" alt="Severity matrix of impact against ease" width="100%">
+  <img src="severity.svg" alt="Severity matrix of impact against ease" width="100%">
 </p>
 
 ## Three things I've learned doing this
